@@ -74,10 +74,9 @@
 ## 📂 Project Structure
 
 ```
-QRCodeGenerator-main/
-└── QRCodeGenerator-main/
-    ├── code.py                # Main script for generating QR codes
-    └── README.md              # Project documentation
+QRCodeGenerator/
+├── code.py                # Main script for generating QR codes
+└── README.md              # Project documentation
 ```
 
 ---
